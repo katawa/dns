@@ -1,0 +1,5 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+hosted_zone "katawa.me." do
+
+end
